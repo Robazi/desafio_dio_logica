@@ -1,0 +1,14 @@
+C:\Desafio Dio Logica\bin\Debug\net8.0\Desafio Dio Logica.exe
+C:\Desafio Dio Logica\bin\Debug\net8.0\Desafio Dio Logica.deps.json
+C:\Desafio Dio Logica\bin\Debug\net8.0\Desafio Dio Logica.runtimeconfig.json
+C:\Desafio Dio Logica\bin\Debug\net8.0\Desafio Dio Logica.dll
+C:\Desafio Dio Logica\bin\Debug\net8.0\Desafio Dio Logica.pdb
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.AssemblyInfoInputs.cache
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.AssemblyInfo.cs
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.csproj.CoreCompileInputs.cache
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.dll
+C:\Desafio Dio Logica\obj\Debug\net8.0\refint\Desafio Dio Logica.dll
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.pdb
+C:\Desafio Dio Logica\obj\Debug\net8.0\Desafio Dio Logica.genruntimeconfig.cache
+C:\Desafio Dio Logica\obj\Debug\net8.0\ref\Desafio Dio Logica.dll
